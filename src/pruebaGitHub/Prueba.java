@@ -12,6 +12,9 @@ public class Prueba {
         }else if(i>1) {
         	System.out.println("Bad Job");
         }
+        else {
+        	System.out.println(a);
+        }
 	}
 
 }
